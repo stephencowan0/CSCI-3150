@@ -1,0 +1,27 @@
+h1, h2 {
+    color: green;
+  }
+  
+  p {
+    color: black;
+  }
+  ul {
+    border: 4px solid blue;
+  }
+  
+  ol {
+    border: 4px solid orange;
+  }
+  
+  ol, ul {
+    padding: 5px 20px;
+    border-radius: 4px;
+  }
+  strong {
+    color: black;
+  }
+  
+  em {
+    color: gray;
+  }
+      
